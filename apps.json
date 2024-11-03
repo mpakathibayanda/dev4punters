@@ -1,0 +1,72 @@
+{
+    "name": "Dev4punters",
+    "description": "We delovelop softwares that solves and simply problems faced by Hustlers. We are punters for punters, we dedicated our time to come up with solutions for punters and provide free to use product for punters.",
+    "githubLink": "",
+    "website": "https://dev4punters.com",
+    "Developer": "Mpakathi Bayanda",
+    "apps": [
+        {
+            "name": "LuckyPlays",
+            "description": "Bet games, Lotto results, tips, hot/cold numbers, & pairing strategies, as ONE!",
+            "published": true,
+            "downloads": "10K",
+            "logoUrl": "https://github.com/mpakathibayanda/logos/luckyplays.png"
+        },
+        {
+            "name": "UK49s Utils",
+            "description": "UK49's Results, Predictions Tips, Hot to cold balls and Numbers combiner tool",
+            "published": true,
+            "downloads": "10K",
+            "logoUrl": "https://github.com/mpakathibayanda/logos/uk49s_utils.png"
+        },
+        {
+            "name": "Gosloto Utils",
+            "description": "Gosloto results, tips, hot/cold numbers, and pairing strategies all in one app",
+            "published": true,
+            "downloads": "1K",
+            "logoUrl": "https://github.com/mpakathibayanda/dev4punters/logos/gosloto_utils.png"
+        },
+        {
+            "name": "SA Lotto Utils",
+            "description": "SA Lotto Utils: Get South Africa lotto results, predictions, hot numbers & combos easily",
+            "published": true,
+            "downloads": "10K",
+            "logoUrl": "https://github.com/mpakathibayanda/dev4punters/logos/sa_lotto_utils.png"
+        },
+        {
+            "name": "TAP49s",
+            "description": "A game of 49 tappable numbers, you tap a number to win 1vouchers for free.",
+            "published": false,
+            "downloads": "1K",
+            "logoUrl": "https://github.com/mpakathibayanda/dev4punters/logos/tap49s.png"
+        },
+        {
+            "name": "Eravoucher",
+            "description": "Get free vouchers for popular sportsbooks and more with the Eravouchers app,",
+            "published": false,
+            "downloads": "5K",
+            "logoUrl": "https://github.com/mpakathibayanda/dev4punters/logos/eravoucher.png"
+        },
+        {
+            "name": "RRunny25s",
+            "description": "Are you quick enough to make the right choices? with pick speed win vouchers",
+            "published": false,
+            "downloads": "500+",
+            "logoUrl": "https://github.com/mpakathibayanda/dev4punters/logos/rrunny25s.png"
+        },
+        {
+            "name": "Deboombo",
+            "description": "The goal is open tile that hide coin or bomb, bomb its lose and coin win",
+            "published": true,
+            "downloads": "10K",
+            "logoUrl": "https://github.com/mpakathibayanda/dev4punters/logos/deboombo.png"
+        },
+        {
+            "name": "50 Waala",
+            "description": "In this app for play coin spinner you have to predict the outcome of the coin",
+            "published": true,
+            "downloads": "10K",
+            "logoUrl": "https://github.com/mpakathibayanda/dev4punters/logos/50_waala.png"
+        }
+    ]
+}
